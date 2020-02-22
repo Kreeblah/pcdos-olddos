@@ -5,7 +5,7 @@ In order to use this, you need the following:
 * An existing PC-DOS 7.01 (PC-DOS 2000) installation, US English release
 * [``OLDDOS.EXE``](https://archive.org/details/olddos) (SHA256 sum d06ed2a259d854cf7a7f96a1e1ec1951e6399aa3b9dc613035414ff5b7709fd5)
 
-Once you have the ``OLDDOS.EXE``, run it on a system that can run 16-bit DOS applications to extract it.  An unzipping program may be able to extract it as well, but this is untested.
+Once you have the ``OLDDOS.EXE`` file, run it on a system that can run 16-bit DOS applications to extract it.  An unzipping program may be able to extract it as well, but this is untested.
 
 From there, copy the below files to a floppy disk or other location to be used for patching, and copy ``PCOLDDOS.BAT`` to the same location.
 
